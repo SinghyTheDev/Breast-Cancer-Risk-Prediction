@@ -25,4 +25,4 @@ For the classification (PCR) task, the ANN model yielded the best results with a
 ## 7. Conclusion
 The project identified some challenges, including imbalanced data in the PCR classification task. Despite these challenges, the models showed promise, especially when training data was increased. Feature selection and hyperparameter tuning were also crucial in model performance. Future work may involve exploring non-sequential ANN models and further research into the dataset to improve model accuracy and reliability.
 
-In summary, this project offers a valuable step towards personalized breast cancer treatment, with the potential to enhance patient outcomes and contribute to the field of oncology.
+In summary, this project offers a valuable step towards personalized breast cancer treatment, with the potential to predict chemotherapy patients outcomes and contribute to the field of oncology.
